@@ -20,6 +20,10 @@ require_once "../st.connect.php";
 
 class Surftrack {
 
+	public function __construct() {
+	
+	}
+
 }
 
 $surftrack = new Surftrack();
